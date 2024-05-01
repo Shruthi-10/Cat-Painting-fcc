@@ -3,10 +3,10 @@
 }
 
 body {
-  background-color: pink;
+  background-color: cyan;
 }
 
-.cat-head {
+.cat-head {cd cat-painting
   position: absolute;
   right: 0;
   left: 0;
